@@ -72792,7 +72792,7 @@ o=new A.M(B.eq,A.b_(l,B.J3,B.j,l,l,new A.aT(p,l,A.d9(o,1),A.bo(15),l,l,B.A),l,l,
 p=o}if(s.wD()<=20)o=new A.M(B.aL,A.b_(l,B.J1,B.j,l,l,new A.aT(B.k,l,A.d9(B.k,1),A.bo(15),l,l,B.A),l,l,l,l,l,l,l),l)
 else{o=A.d9(B.k,1)
 n=A.bo(15)
-n=new A.M(B.aL,A.b_(l,new A.M(B.b2,A.bh(r.a.c.j(0)+" Overall Submissions: "+s.wD(),l,l,l,B.dX,l,l),l),B.j,l,l,new A.aT(B.k,l,o,n,l,l,B.A),l,l,l,l,l,l,l),l)
+n=new A.M(B.aL,A.b_(l,new A.M(B.b2,A.bh("Overall Submissions: "+s.wD(),l,l,l,B.dX,l,l),l),B.j,l,l,new A.aT(B.k,l,o,n,l,l,B.A),l,l,l,l,l,l,l),l)
 o=n}n=A.d9(B.k,1)
 m=A.bo(15)
 return new A.M(B.D6,new A.FQ(B.By,new A.c2(k,B.u),new A.IA(q,new A.M(B.aH,A.co(A.ack(B.Rw,A.b([p,o,new A.M(B.aL,A.b_(l,new A.M(B.b2,A.bh(s.d,l,l,l,B.dX,l,l),l),B.j,l,l,new A.aT(B.k,l,n,m,l,l,B.A),l,l,l,l,l,l,l),l)],t.p)),l,l),l),new A.aki(r,a,this.b),l),l),l)},
