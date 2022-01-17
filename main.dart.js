@@ -72282,7 +72282,7 @@ A.bs(s,!1).jJ(0,null)},
 $S:0}
 A.ajk.prototype={
 $2(a,b){var s,r,q,p=null,o="IITG Email Address",n="Enter a new password",m=this.a,l=m.f
-if(b.d>=650){s=A.bo(15)
+if(b.d>=900){s=A.bo(15)
 r=A.d9(B.k,1.5)
 q=m.x
 l=A.b_(p,A.em(!0,B.P,!1,p,l,p,p,p,2,A.e0(p,p,p,p,p,p,p,p,!0,B.p,B.p,p,B.a8,q===""?p:q,B.k,p,p,p,p,B.p,p,p,p,p,p,p,p,p,p,p,p,!1,p,p,B.ae,o,p,p,p,p,p,p,p,p,p,p,p,p,p),!0,!0,!0,p,!1,p,p,p,p,p,!0,p,1,p,!1,"\u2022",new A.aj9(m),p,p,p,!1,p,p,B.a6,p,p,p,p,p,p,B.a9,B.S,p,B.a7,p,p,p),B.j,p,p,new A.aT(p,p,r,s,p,p,B.A),p,p,p,B.ac,p,p,p)
