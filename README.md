@@ -1,3 +1,9 @@
+
+
+<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749396-fdde2285-a2cf-498e-b8ec-3baa92136df2.png" />⠀⠀⠀<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749418-32dbc04e-546e-4413-a9e9-86b38cd1c28b.png" />
+
+<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749439-a1b0bd9b-b4d3-4fcb-a892-8147a81b531e.png" />⠀⠀⠀<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749459-699f2169-ae10-4bec-8bfe-2da55f0511b1.png" />
+
 # [ERTOPE](https://letsintegreat.github.io/ertope/)
 
 **[ERTOPE](https://letsintegreat.github.io/ertope/)**, A Word which carries an immense amount of potential, love and connection with it, but yet no meaning. Yeah **[ERTOPE](https://letsintegreat.github.io/ertope/)** means nothing.
@@ -24,7 +30,3 @@ With that :tearyeyes:, We feel proud to say, that **"[ERTOPE](https://letsintegr
 
 
 *btw Coordinator Obliged to Distinguish and Evaluate Stats is just a piece of code, lmao.*
-
-<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749396-fdde2285-a2cf-498e-b8ec-3baa92136df2.png" />⠀⠀⠀<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749418-32dbc04e-546e-4413-a9e9-86b38cd1c28b.png" />
-
-<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749439-a1b0bd9b-b4d3-4fcb-a892-8147a81b531e.png" />⠀⠀⠀<img width="300px" src="https://user-images.githubusercontent.com/37345795/149749459-699f2169-ae10-4bec-8bfe-2da55f0511b1.png" />
